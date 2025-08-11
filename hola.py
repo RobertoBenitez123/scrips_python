@@ -9,6 +9,12 @@ def despedirse():
 def saltar():
     print("El humano salta")
 
+def respirar():
+    print("Respira")
+
+def mirar():
+    print("Mirar")
+
 ventana = tk.Tk()
 ventana.geometry("600x400")
 
