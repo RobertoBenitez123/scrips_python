@@ -6,6 +6,9 @@ def saludar():
 def despedirse():
     print("Nos vemos")
 
+def saltar():
+    print("El humano salta")
+
 ventana = tk.Tk()
 ventana.geometry("600x400")
 
