@@ -1,5 +1,11 @@
 import tkinter as tk
 
+def saludar():
+    print("Hola a todos")
+
+def despedirse():
+    print("Nos vemos")
+
 ventana = tk.Tk()
 ventana.geometry("600x400")
 
